@@ -1,5 +1,3 @@
-Sure! Here's an example of the content you can include in the README file for your Transposition Cipher program on GitHub:
-
 # Transposition Cipher
 
 This program implements the Transposition Cipher encryption and decryption algorithm. The Transposition Cipher is a simple form of encryption where the order of characters in a message is rearranged based on a specific pattern or key.
